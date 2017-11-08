@@ -1,0 +1,39 @@
+h1 {
+    color: pink;
+	font-family: 'Brush Script MT', cursive;
+	font-size: 100px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 9px;
+	text-align: center;}
+
+h2 {
+    color: pink;
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;}
+
+#article_heading {
+    text-align: center;
+    font-size: 30px;
+    color: white;}
+
+p {
+     color: white;}
+
+body {
+    background-color: BLACK}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+#p1-container {
+    width: 450px;
+    float: right;}
+
+b {
+color: pink}
